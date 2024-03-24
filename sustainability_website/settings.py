@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-9!ehmv$xwnn0lz2-fg557e&lb#=xck-$(3y3+2l1@wxip+$9nw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
 
 # Disables the browseable API provided by Rest Framework
 # Only disable for devlopment and debugging!
@@ -152,8 +152,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Custom User model for the API app 
 AUTH_USER_MODEL = "api.User"
-
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '192.168.0.18']
 
 MEDIA_URL = '/images/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'frontend/src/images')
