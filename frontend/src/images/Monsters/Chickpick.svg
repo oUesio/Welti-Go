@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M300 0L300 0L300 300L0 300L0 0L300 0Z" id="path_1" />
+    <path d="M3.15208 0L6.0921 1.49786L2.65955 7.05182C2.65955 7.05182 1.30687 8.06816 0.642003 7.71251C-0.0228621 7.35677 8.87276e-05 5.6291 8.87276e-05 5.6291L3.15208 0Z" id="path_2" />
+    <path d="M0 0.42412L3.97711 0L4.5161 7.5297C4.5161 7.5297 3.89657 9.36764 2.98516 9.44721C2.07372 9.52678 0.870391 7.84796 0.870391 7.84796L0 0.42412Z" id="path_3" />
+    <path d="M0 2.84656L2.39713 0L6.49035 8.55967C6.49035 8.55967 6.99699 11.0923 6.43891 11.7238C5.88081 12.3553 4.25797 11.0859 4.25797 11.0859L0 2.84656Z" id="path_4" />
+    <path d="M1.76207 0L1.76207 25.2311C1.76207 25.2311 4.05669 26.95 6.11612 26.95C8.17555 26.95 9.99979 25.2311 9.99979 25.2311L9.99979 0L1.76207 0L1.76207 0Z" id="path_5" />
+    <path d="M3.12993 0L6.04928 1.52007L2.64085 7.15641C2.64085 7.15641 1.2977 8.18783 0.637504 7.8269C-0.0226867 7.46589 8.81038e-05 5.71259 8.81038e-05 5.71259L3.12993 0Z" id="path_6" />
+    <path d="M0 0.430408L3.94915 0L4.48436 7.64135C4.48436 7.64135 3.86919 9.50654 2.96416 9.5873C2.05914 9.66805 0.864271 7.96433 0.864271 7.96433L0 0.430408Z" id="path_7" />
+    <path d="M0 2.88878L2.38028 0L6.44473 8.68661C6.44473 8.68661 6.94781 11.2568 6.39364 11.8977C5.83947 12.5385 4.22803 11.2503 4.22803 11.2503L0 2.88878Z" id="path_8" />
+    <path d="M1.74968 0L1.74968 25.6052C1.74968 25.6052 4.02815 27.3496 6.07309 27.3496C8.11804 27.3496 9.92946 25.6052 9.92946 25.6052L9.92946 0L1.74968 0L1.74968 0Z" id="path_9" />
+    <path d="M78.1628 187.495C78.1628 141.406 109.416 77.4896 149.386 77.4896C189.356 77.4896 221.069 141.406 221.069 187.495C221.069 233.585 188.437 248.425 148.467 248.425C108.497 248.425 78.1628 233.585 78.1628 187.495Z" id="path_10" />
+    <path d="M0 14.0502L35.0212 0C35.0212 0 43.3048 6.77422 43.3048 13.7581C43.3048 20.7421 35.0212 27.9357 35.0212 27.9357L0 14.0502Z" id="path_11" />
+    <path d="M106.551 128.038C106.551 119.811 110.752 113.142 115.934 113.142C121.116 113.142 125.932 124.243 120.024 128.038C114.116 131.832 124.988 133.83 123.392 136.083C121.16 139.235 121.116 146.84 115.934 146.84C110.752 146.84 106.551 136.264 106.551 128.038Z" id="path_12" />
+    <path d="M161.404 128.038C161.404 119.811 165.605 113.142 170.787 113.142C175.969 113.142 180.785 124.243 174.877 128.038C168.969 131.832 179.841 133.83 178.245 136.083C176.013 139.235 175.969 146.84 170.787 146.84C165.605 146.84 161.404 136.264 161.404 128.038Z" id="path_13" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+    <clipPath id="clip_3">
+      <use xlink:href="#path_3" />
+    </clipPath>
+    <clipPath id="clip_4">
+      <use xlink:href="#path_4" />
+    </clipPath>
+    <clipPath id="clip_5">
+      <use xlink:href="#path_5" />
+    </clipPath>
+    <clipPath id="clip_6">
+      <use xlink:href="#path_6" />
+    </clipPath>
+    <clipPath id="clip_7">
+      <use xlink:href="#path_7" />
+    </clipPath>
+    <clipPath id="clip_8">
+      <use xlink:href="#path_8" />
+    </clipPath>
+    <clipPath id="clip_9">
+      <use xlink:href="#path_9" />
+    </clipPath>
+    <clipPath id="clip_10">
+      <use xlink:href="#path_10" />
+    </clipPath>
+    <clipPath id="clip_11">
+      <use xlink:href="#path_11" />
+    </clipPath>
+    <clipPath id="clip_12">
+      <use xlink:href="#path_12" />
+    </clipPath>
+    <clipPath id="clip_13">
+      <use xlink:href="#path_13" />
+    </clipPath>
+  </defs>
+  <g id="Frame" clip-path="url(#clip_1)">
+    <path d="M300 0L300 0L300 300L0 300L0 0L300 0Z" id="Frame" fill="#FFFFFF" fill-opacity="0" stroke="none" />
+    <path d="M208.394 139.205C208.394 139.205 286.612 209.218 247.118 187.111C207.623 165.003 247.118 187.111 247.118 187.111C247.118 187.111 276.697 199.953 248.586 196.32C220.475 192.686 248.586 196.32 248.586 196.32C248.586 196.32 288.289 216.255 244.197 207.079C200.104 197.904 168.176 208.968 168.176 208.968" id="Vector" fill="#FFECB3" fill-rule="evenodd" stroke="#000000" stroke-width="1" />
+    <path d="M86.7398 142.471C86.7398 142.471 14.3038 214.85 52.6542 190.414C91.0046 165.979 52.6542 190.414 52.6542 190.414C52.6542 190.414 23.4333 205.318 52.3526 198.992C81.2721 192.666 52.3526 198.992 52.3526 198.992C52.3526 198.992 13.4928 221.463 58.3873 208.362C103.282 195.262 138.165 201.968 138.165 201.968" id="Vector" fill="#FFECB3" fill-rule="evenodd" stroke="#000000" stroke-width="1" />
+    <g id="Group-5" transform="matrix(1 0 0 0.99999994 183.92618 231.18521)">
+      <g id="Group-3" transform="translate(0 23.937136)">
+        <g id="Rectangle-2">
+          <use stroke="none" fill="#FFECB3" xlink:href="#path_2" fill-rule="evenodd" />
+          <g clip-path="url(#clip_2)">
+            <use xlink:href="#path_2" fill="none" stroke="#000000" stroke-width="0.4" />
+          </g>
+        </g>
+        <path d="M0.264527 7.85266L0.287005 5.31146C0.287005 5.31146 1.34183 5.21565 1.87387 5.64379C2.40594 6.07188 2.41523 7.02395 2.41523 7.02395L0.264527 7.85266Z" id="Triangle" fill="#FFFFFF" fill-rule="evenodd" stroke="#757575" stroke-width="0.1" />
+      </g>
+      <g id="Group-4" transform="translate(3.3523417 24.274715)">
+        <g id="Rectangle-2">
+          <use stroke="none" fill="#FFECB3" xlink:href="#path_3" fill-rule="evenodd" />
+          <g clip-path="url(#clip_3)">
+            <use xlink:href="#path_3" fill="none" stroke="#000000" stroke-width="0.4" />
+          </g>
+        </g>
+        <path d="M2.69295 9.88741L1.30374 7.51214C1.30374 7.51214 2.16384 6.69495 2.86177 6.72512C3.5597 6.75537 4.0955 7.63296 4.0955 7.63296L2.69295 9.88741Z" id="Triangle" fill="#FFFFFF" fill-rule="evenodd" stroke="#757575" stroke-width="0.1" />
+      </g>
+      <g id="Group-3" transform="translate(5.638648 21.175003)">
+        <g id="Rectangle-2">
+          <use stroke="none" fill="#FFECB3" xlink:href="#path_4" fill-rule="evenodd" />
+          <g clip-path="url(#clip_4)">
+            <use xlink:href="#path_4" fill="none" stroke="#000000" stroke-width="0.4" />
+          </g>
+        </g>
+        <path d="M6.70646 12.2774L4.14575 10.6438C4.14575 10.6438 4.20857 9.13594 4.72098 8.6759C5.2334 8.21583 6.19539 8.8035 6.19539 8.8035L6.70646 12.2774Z" id="Triangle" fill="#FFFFFF" fill-rule="evenodd" stroke="#757575" stroke-width="0.1" />
+      </g>
+      <g id="Rectangle">
+        <use stroke="none" fill="#FFECB3" xlink:href="#path_5" fill-rule="evenodd" />
+        <g clip-path="url(#clip_5)">
+          <use xlink:href="#path_5" fill="none" stroke="#000000" stroke-width="0.6" />
+        </g>
+      </g>
+    </g>
+    <g id="Group-5" transform="matrix(1 0 0 0.99999994 105.36357 231.33131)">
+      <g id="Group-3" transform="translate(0 24.292109)">
+        <g id="Rectangle-2">
+          <use stroke="none" fill="#FFECB3" xlink:href="#path_6" fill-rule="evenodd" />
+          <g clip-path="url(#clip_6)">
+            <use xlink:href="#path_6" fill="none" stroke="#000000" stroke-width="0.4" />
+          </g>
+        </g>
+        <path d="M0.262696 7.96912L0.285001 5.39024C0.285001 5.39024 1.33239 5.293 1.86071 5.7275C2.38902 6.16193 2.39826 7.12812 2.39826 7.12812L0.262696 7.96912Z" id="Triangle" fill="#FFFFFF" fill-rule="evenodd" stroke="#757575" stroke-width="0.1" />
+      </g>
+      <g id="Group-4" transform="translate(3.3288014 24.634676)">
+        <g id="Rectangle-2">
+          <use stroke="none" fill="#FFECB3" xlink:href="#path_7" fill-rule="evenodd" />
+          <g clip-path="url(#clip_7)">
+            <use xlink:href="#path_7" fill="none" stroke="#000000" stroke-width="0.4" />
+          </g>
+        </g>
+        <path d="M2.67402 10.034L1.29457 7.62353C1.29457 7.62353 2.14861 6.79422 2.84166 6.82484C3.53467 6.85554 4.0667 7.74613 4.0667 7.74613L2.67402 10.034Z" id="Triangle" fill="#FFFFFF" fill-rule="evenodd" stroke="#757575" stroke-width="0.1" />
+      </g>
+      <g id="Group-3" transform="translate(5.5990014 21.48902)">
+        <g id="Rectangle-2">
+          <use stroke="none" fill="#FFECB3" xlink:href="#path_8" fill-rule="evenodd" />
+          <g clip-path="url(#clip_8)">
+            <use xlink:href="#path_8" fill="none" stroke="#000000" stroke-width="0.4" />
+          </g>
+        </g>
+        <path d="M6.65931 12.4595L4.11661 10.8017C4.11661 10.8017 4.17899 9.27144 4.68779 8.80458C5.19661 8.33768 6.15184 8.93407 6.15184 8.93407L6.65931 12.4595Z" id="Triangle" fill="#FFFFFF" fill-rule="evenodd" stroke="#757575" stroke-width="0.1" />
+      </g>
+      <g id="Rectangle">
+        <use stroke="none" fill="#FFECB3" xlink:href="#path_9" fill-rule="evenodd" />
+        <g clip-path="url(#clip_9)">
+          <use xlink:href="#path_9" fill="none" stroke="#000000" stroke-width="0.6" />
+        </g>
+      </g>
+    </g>
+    <path d="M169.584 90.6572L169.584 74.0052C169.584 74.0052 165.368 -8.32957 155.509 74.0052C145.65 156.34 155.509 74.0052 155.509 74.0052C155.509 74.0052 151.722 -13.8156 142.353 74.0939C132.983 162.003 142.353 74.0052 142.353 74.0052C142.353 74.0052 133.241 -10.8135 127.972 74.0939C126.129 96.7328 117.569 86.5163 127.972 90.6571C138.375 94.798 169.584 90.6572 169.584 90.6572Z" id="Vector" fill="#F17E12" fill-rule="evenodd" stroke="#808080" stroke-width="1" />
+    <g id="Oval">
+      <use stroke="none" fill="#FFECB3" xlink:href="#path_10" fill-rule="evenodd" />
+      <g clip-path="url(#clip_10)">
+        <use xlink:href="#path_10" fill="none" stroke="#808080" stroke-width="2" />
+      </g>
+    </g>
+    <g id="Group" transform="matrix(1 0 0 0.99999994 114.73128 157.58499)">
+      <g id="Triangle">
+        <use stroke="none" fill="#FFC107" xlink:href="#path_11" fill-rule="evenodd" />
+        <g clip-path="url(#clip_11)">
+          <use xlink:href="#path_11" fill="none" stroke="#000000" stroke-width="2" />
+        </g>
+      </g>
+      <path d="M43.38 14.1632L1.92466 14.6516" id="Vector-2" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" />
+    </g>
+    <g id="Oval-2">
+      <use stroke="none" fill="#000000" xlink:href="#path_12" fill-rule="evenodd" />
+      <g clip-path="url(#clip_12)">
+        <use xlink:href="#path_12" fill="none" stroke="#808080" stroke-width="2" />
+      </g>
+    </g>
+    <g id="Oval-2">
+      <use stroke="none" fill="#000000" xlink:href="#path_13" fill-rule="evenodd" />
+      <g clip-path="url(#clip_13)">
+        <use xlink:href="#path_13" fill="none" stroke="#808080" stroke-width="2" />
+      </g>
+    </g>
+    <g id="Group-2" transform="matrix(1 0 0 0.99999994 78.643906 196.16751)">
+      <path d="M42.2559 0L57.803 0C48.8064 35.234 43.8908 11.2785 42.2559 0L42.2559 0ZM65.8921 20.0238L65.8887 20.0238C62.4565 20.0196 60.4166 7.28549 59.5303 0L74.1673 0C70.808 14.8934 68.07 20.0211 65.8921 20.0238L65.8921 20.0238ZM92.3407 0C87.087 36.6377 79.3159 11.5631 76.4036 0L92.3407 0L92.3407 0ZM92.34 0L107.887 0C98.8906 35.234 93.9749 11.2785 92.34 0L92.34 0ZM115.976 20.0238L115.973 20.0238C112.541 20.0196 110.501 7.28549 109.614 0L124.251 0C120.892 14.8934 118.154 20.0211 115.976 20.0238L115.976 20.0238ZM141.943 0C136.233 36.4045 127.787 11.4896 124.622 0L141.943 0L141.943 0ZM0 0L0.481597 0L0.481597 0.488386C0.481597 0.319649 0.319339 0.156953 0 0L0 0ZM8.20024 0C6.42373 6.95739 4.80634 11.6069 3.34193 14.5018C3.27794 13.9078 3.20796 13.3268 2.93051 13.0455C1.61492 11.7113 1.98423 7.67988 1.04249 5.76985C0.762627 5.20224 0.745034 4.33771 0.727515 3.47628C0.706204 2.42913 0.684996 1.38658 0.19289 0.88754C0.108204 0.801661 0.135144 0.6133 0.161908 0.42619C0.185967 0.258024 0.209865 0.090857 0.152458 0L8.20024 0L8.20024 0ZM16.2895 20.0238L16.2861 20.0238C12.8539 20.0196 10.814 7.28549 9.92769 0L24.5647 0C21.2054 14.8933 18.4673 20.0211 16.2895 20.0238L16.2895 20.0238ZM42.7381 0C37.4843 36.6376 29.7133 11.5631 26.801 0L42.7381 0L42.7381 0Z" id="Vector" fill="#F17E12" fill-rule="evenodd" stroke="#808080" stroke-width="1" />
+    </g>
+  </g>
+</svg>

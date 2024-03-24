@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="287px" height="217px" viewBox="0 0 287 217" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M287 0L287 0L287 217L0 217L0 0L287 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="HalfLetter" clip-path="url(#clip_1)">
+    <path d="M287 0L287 0L287 217L0 217L0 0L287 0Z" id="HalfLetter" fill="#FFFFFF" fill-opacity="0" stroke="none" />
+    <path d="M182.436 131.201C163.346 127.986 144.669 142.722 140.72 164.113C136.771 185.504 149.044 205.451 168.133 208.666C187.223 211.881 205.9 197.145 209.849 175.754C213.798 154.363 201.525 134.416 182.436 131.201ZM181.502 141.542C169.539 139.528 157.586 150.112 154.803 165.183C152.021 180.254 159.463 194.105 171.426 196.12C183.388 198.134 195.342 187.55 198.124 172.478C200.907 157.407 193.465 143.557 181.502 141.542Z" id="Oval-Subtract" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M224.5 60L219.5 73L243.5 73L223.5 117L201 113L196 125L231 135L250.5 143.5L259 135L235 120.5L255 76.5L279.5 79L282 67L255 62L224.5 60Z" id="Vector-16" fill="#F9E795" fill-rule="evenodd" stroke="#B2E46A" stroke-width="5" />
+    <path d="M166 42L162 53L184 56.5L171.5 111L184 116L197.5 56.5L226 53L226 42L197.5 44.5L166 42Z" id="Vector-15" fill="#F9E795" fill-rule="evenodd" stroke="#B2E46A" stroke-width="5" />
+    <path d="M120.5 49C120.5 49.002 123.5 112 123.5 112L160.5 108L165.5 96L134.5 100.5L134.5 37.5C134.5 37.5 120.5 48.998 120.5 49Z" id="Vector-14" fill="#F9E795" fill-rule="evenodd" stroke="#B2E46A" stroke-width="5" />
+    <path d="M75.3159 43.0952L77.5 45L102.5 29.5L98 16.5L75.3159 43.0952Z" id="Vector-17" fill="#F9E795" fill-rule="evenodd" stroke="#B2E46A" stroke-width="5" />
+    <path d="M74.5 59.5C74.669 60.2952 82 124 82 124L115 105.5L115 93.5L90.5 105.5L90.5 93.5L110 82L105.5 74.5L87.5 82L87.5 68.5L115 49L105.5 40C105.5 40 74.3309 58.7048 74.5 59.5Z" id="Vector-13" fill="#F9E795" fill-rule="evenodd" stroke="#B2E46A" stroke-width="5" />
+    <path d="M14 71.4999L26 107.5L30.5 145L41.5 141L46.5 121L51 121L57 128.5L66 121L69.5 50.9999L57 55.9999L54.5 102.5L46.5 92.4999L41.5 97.4999L38.5 113.5L30.5 72.4999L14 71.4999Z" id="Vector-12" fill="#F9E795" fill-rule="evenodd" stroke="#B2E46A" stroke-width="5" />
+    <path d="M67.5587 176.648C63.6093 155.257 75.8827 135.31 94.9721 132.095C107.096 130.053 119.053 135.252 127.177 144.797L113.375 147.231C108.915 143.976 103.689 142.449 98.4608 143.33C86.4981 145.344 79.0561 159.195 81.8386 174.266C84.6212 189.337 96.5746 199.922 108.537 197.907C118.466 196.235 125.28 186.411 125.72 174.502L137.423 172.438C137.669 190.841 126.128 206.722 109.274 209.56C90.1848 212.774 71.5081 198.039 67.5587 176.648Z" id="Oval-Subtract-2-Subtract" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M99.6 168.437L135.547 162.383L137.497 172.947L101.55 179L99.6 168.437Z" id="Rectangle-2" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

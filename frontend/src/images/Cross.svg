@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 150C0 67.1572 67.1572 0 150 0C232.843 0 300 67.1572 300 150C300 232.843 232.843 300 150 300C67.1572 300 0 232.843 0 150Z" id="Oval-2" fill="#C7343B" fill-rule="evenodd" stroke="none" />
+  <path d="M108.488 70L230.393 191.905L192.297 230L70.3926 108.095L108.488 70Z" id="Rectangle-8" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  <path d="M70.1768 192.119L192.082 70.2139L230.177 108.309L108.272 230.214L70.1768 192.119Z" id="Rectangle-9" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+</svg>

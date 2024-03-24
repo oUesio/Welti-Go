@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1040px" height="908px" viewBox="0 0 1040 908" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M1040 0L1040 0L1040 908L0 908L0 0L1040 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Frame" clip-path="url(#clip_1)">
+    <path d="M1040 0L1040 0L1040 908L0 908L0 0L1040 0Z" id="Frame" fill="#FFFFFF" stroke="none" />
+    <path d="M0.00012207 -6.10352e-05L1044 -6.10352e-05L1044 910L0.00012207 910L0.00012207 -6.10352e-05Z" id="Background" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M538.567 139.257L669.133 109.057L699.951 242.799L569.385 273L538.567 139.257Z" id="Rectangle-2" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M466.9 457L537.4 553L396.4 553L466.9 457Z" id="Triangle" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M807 520.8L957.122 618.29L886.319 727.318L736.197 629.827L807 520.8Z" id="Rectangle-3" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M633.932 333.482L830.015 280.942L882.296 476.059L686.213 528.599L633.932 333.482Z" id="Rectangle-4" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M391 631L570.001 592.952L609.712 779.778L430.711 817.826L391 631Z" id="Rectangle-5" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M72 381.975L234 381.975L234 532.975L72 532.975L72 381.975Z" id="Rectangle-7" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M614.069 362.129L714.98 336.969L724.899 376.752L623.988 401.911L614.069 362.129Z" id="Rectangle-8" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M714.745 338.126L738.937 435.155L696.244 445.8L672.052 348.77L714.745 338.126Z" id="Rectangle-8-Copy" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M830 258L866.047 402.574L762.225 428.46L726.178 283.886L830 258Z" id="Rectangle-9" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M871.868 428L885.9 484.277L782.078 510.163L768.046 453.886L871.868 428Z" id="Rectangle-9-Copy" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M713 484L727.032 540.277L682.398 551.406L668.366 495.128L713 484Z" id="Rectangle-9-Copy-2" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M542 251L566.359 245.376L574.233 279.479L549.873 285.103L542 251Z" id="Rectangle-28-Copy" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M593.6 210.843L649.139 198L657.012 232.157L601.473 245L593.6 210.843Z" id="Rectangle-28-Copy-2" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M725.97 462.758L730.083 479.253L706.796 485.059L702.683 468.564L725.97 462.758Z" id="Rectangle-9-Copy-3" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M725 501.6L735.5 519.786L714.715 531.786L704.215 513.6L725 501.6Z" id="Rectangle-9-Copy-4" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M777.587 623.311L916.807 713.721L899.378 740.558L760.159 650.148L777.587 623.311Z" id="Rectangle-9-Copy-9" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M878.268 597.173L919.362 623.86L889.952 669.149L848.857 642.461L878.268 597.173Z" id="Rectangle-9-Copy-10" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M903.47 558.218L915.211 565.843L885.801 611.131L874.059 603.506L903.47 558.218Z" id="Rectangle-9-Copy-11" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M781 617L795.257 626.259L773.472 659.806L759.214 650.547L781 617Z" id="Rectangle-9-Copy-12" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M771.644 469.5L782.144 487.687L762.225 499.187L751.725 481L771.644 469.5Z" id="Rectangle-9-Copy-5" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M771.639 462L787.726 475.499L772.942 493.118L756.855 479.619L771.639 462Z" id="Rectangle-9-Copy-8" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M783.185 488.065L780.832 514.962L757.919 512.958L760.272 486.06L783.185 488.065Z" id="Rectangle-9-Copy-6" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M730 479.353L727.647 506.25L704.734 504.246L707.088 477.348L730 479.353Z" id="Rectangle-9-Copy-7" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M442.5 444.549L468.481 459.549L410.481 560.008L384.5 545.008L442.5 444.549Z" id="Rectangle-14" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M410.377 500.098L438.193 511.336L414.967 568.822L387.152 557.583L410.377 500.098Z" id="Rectangle-14-Copy" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M428 537L396 529L381 558L419 574.5L466 584L509 574.5L547 574.5L594 584L634 611L657 633L669 646L689 633L736 656L768 659L788 624" id="Vector" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M442 548L509 548L509 560L442 560L442 548Z" id="Rectangle-15" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M476.2 451.414L553.982 529.195L534.89 548.287L457.108 470.505L476.2 451.414Z" id="Rectangle-16" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M530.6 539L541.207 549.607L532.721 558.092L522.115 547.485L530.6 539Z" id="Rectangle-15-Copy" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M480.1 606.095L581.827 584.473L587.233 609.904L485.506 631.527L480.1 606.095Z" id="Rectangle-17" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M382 600.3L486.856 605.795L485.495 631.76L380.639 626.264L382 600.3Z" id="Rectangle-17-Copy" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M375.453 644L405.775 637.555L419.082 700.156L388.759 706.601L375.453 644Z" id="Rectangle-18" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M391 693L423.279 686.139L450.307 813.298L418.028 820.159L391 693Z" id="Rectangle-18-Copy" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M419 809L507.033 790.288L511.192 809.851L423.158 828.563L419 809Z" id="Rectangle-18-Copy-2" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M550.27 749.286L605.047 737.643L609.205 757.206L554.429 768.849L550.27 749.286Z" id="Rectangle-18-Copy-3" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M564.968 691L599.203 683.723L612.093 744.368L577.858 751.645L564.968 691Z" id="Rectangle-18-Copy-4" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M558.686 778.686L570.707 790.707L552.322 809.092L540.302 797.071L558.686 778.686Z" id="Rectangle-19" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M506.354 800L560.152 788.565L562.647 800.303L508.848 811.738L506.354 800Z" id="Rectangle-20" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M489.042 798.958L503.184 784.816L526.518 808.151L512.376 822.293L489.042 798.958Z" id="Rectangle-21" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M477 751.242L495.585 747.291L507.644 804.024L489.059 807.974L477 751.242Z" id="Rectangle-22" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M476 779.295L486.285 791.551L454.877 817.906L444.592 805.649L476 779.295Z" id="Rectangle-23" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M481 758L498.854 764.498L486.884 797.388L469.029 790.889L481 758Z" id="Rectangle-24" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M501.995 778L516.495 803.115L503.505 810.615L489.005 785.5L501.995 778Z" id="Rectangle-25" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M553.2 756L618.2 756L618.2 789L553.2 789L553.2 756Z" id="Rectangle-26" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M554.127 775.4L565.403 779.504L560.273 793.6L548.997 789.496L554.127 775.4Z" id="Rectangle-27" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M523.642 134.978L549.95 128.904L576.719 244.854L550.411 250.928L523.642 134.978Z" id="Rectangle-28" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M187 476L262 476L262 544L187 544L187 476Z" id="Rectangle-29" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M55 409L126 409L126 544L55 544L55 409Z" id="Rectangle-30" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M115.653 310.572L177.171 372.09L106.46 442.801L44.9418 381.282L115.653 310.572Z" id="Rectangle-31" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M198.757 327L249.669 377.912L207.243 420.338L156.331 369.426L198.757 327Z" id="Rectangle-32" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M200 403.109L252.623 383.956L281.352 462.891L228.73 482.044L200 403.109Z" id="Rectangle-33" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M234.556 449.852L256.477 471.772L224.657 503.592L202.737 481.672L234.556 449.852Z" id="Rectangle-34" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M126 420L164 461L88 461L126 420Z" id="Triangle-2" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M156 525L210 525L210 541L156 541L156 525Z" id="Rectangle-35" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M187 502L210 534L164 534L187 502Z" id="Triangle-3" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M187.5 511L219 526L156 526L187.5 511Z" id="Triangle-4" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M202.86 476.404L212.406 505.749L173.515 466.858L202.86 476.404Z" id="Triangle-5" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M162 455.969L178.455 465.469L174.955 471.531L158.5 462.031L162 455.969Z" id="Rectangle-36" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M1019 793.5C1019 794.329 1018.33 795 1017.5 795L1017.5 795C1016.67 795 1016 794.329 1016 793.5L1016 766.5C1016 765.671 1016.67 765 1017.5 765L1017.5 765C1018.33 765 1019 765.671 1019 766.5L1019 793.5Z" id="Rectangle-66" fill="#48B33A" stroke="none" />
+    <path d="M1032 73.5C1032 74.3285 1031.33 75 1030.5 75L1030.5 75C1029.67 75 1029 74.3285 1029 73.5L1029 46.5C1029 45.6715 1029.67 45 1030.5 45L1030.5 45C1031.33 45 1032 45.6715 1032 46.5L1032 73.5Z" id="Rectangle-68" fill="#48B33A" stroke="none" />
+    <path d="M1032 174.5C1032 175.329 1031.33 176 1030.5 176L1030.5 176C1029.67 176 1029 175.329 1029 174.5L1029 107.5C1029 106.671 1029.67 106 1030.5 106L1030.5 106C1031.33 106 1032 106.671 1032 107.5L1032 174.5Z" id="Rectangle-69" fill="#48B33A" stroke="none" />
+    <path d="M768 659L789.578 621.269" id="Vector-5" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M768 659L826.211 681L882.415 705L951.164 741L987.796 727L1004.86 696L1023.93 681L1044 681" id="Vector-2" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M717 597L730.549 670.752L752 731" id="Vector-19" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M159 868L173 868L173 882L159 882L159 868Z" id="Rectangle-62" fill="#48B33A" fill-rule="evenodd" stroke="none" />
+    <path d="M195 868L209 868L209 882L195 882L195 868Z" id="Rectangle-63" fill="#48B33A" fill-rule="evenodd" stroke="none" />
+    <path d="M377 556L366.474 549.888" id="Vector-40" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M731 893.5L716 901L716 886L731 893.5Z" id="Triangle-6" fill="#48B33A" fill-rule="evenodd" stroke="none" />
+    <path d="M672 645L705 681L725 717L725 741L768 727L806.5 741L856.5 769L882 790L917 818L965 865.5L1002 910" id="Vector-6" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M725 738L697 769L672 800L659.5 835.5L649 870.5L641.5 910" id="Vector-7" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M669 644L642 681L634 705L634 741L642 779L661.5 829" id="Vector-8" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M939.081 208.919C939.667 208.333 940.617 208.333 941.203 208.919L941.203 208.919C941.789 209.504 941.789 210.454 941.203 211.04L929.182 223.061C928.596 223.647 927.647 223.647 927.061 223.061L927.061 223.061C926.475 222.475 926.475 221.525 927.061 220.939L939.081 208.919Z" id="Rectangle-64" fill="#48B33A" stroke="none" />
+    <path d="M941.203 220.939C941.789 221.525 941.789 222.475 941.203 223.061L941.203 223.061C940.617 223.647 939.667 223.647 939.081 223.061L927.061 211.04C926.475 210.454 926.475 209.504 927.061 208.919L927.061 208.919C927.647 208.333 928.596 208.333 929.182 208.919L941.203 220.939Z" id="Rectangle-65" fill="#48B33A" stroke="none" />
+    <path d="M691 632L725 584L758 532L796 493L849 457L917 433L1024 411.5L1044 411.5" id="Vector-9" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M785.474 609.677L802.248 620.57L797.346 628.118L780.573 617.225L785.474 609.677Z" id="Rectangle-74" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M781 503C781 503 774.351 486.642 774.333 486.889C774.316 487.135 761 474 761 474" id="Vector-13" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M760 531L726 521L705 517L676.5 493L668 469L647 437.5L625 412L619 391L579 404L539 412L558 469L594 505L647 539L683 573.5L716 593" id="Vector-10" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M692 506L692.981 493.451" id="Vector-11" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M618 391L629 386L618 369L594 348.5L577 324L570 307" id="Vector-14" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M541 413L531 404L524 382L522 365L518.5 321" id="Vector-15" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M716 592L705 517" id="Vector-16" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M803 487L894 553" id="Vector-17" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M703 676L736 659" id="Vector-18" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M-25 797L-2.37259 774.373L88.8442 865.589L66.2168 888.217L-25 797Z" id="Rectangle-52" fill="#CBEA9D" fill-rule="evenodd" stroke="none" />
+    <path d="M-25 706L-2.37259 683.372L88.8442 774.589L66.2168 797.217L-25 706Z" id="Rectangle-54" fill="#CBEA9D" fill-rule="evenodd" stroke="none" />
+    <path d="M-32.5848 607.315L-9.95739 584.688L99.6441 694.289L77.0167 716.917L-32.5848 607.315Z" id="Rectangle-56" fill="#CBEA9D" fill-rule="evenodd" stroke="none" />
+    <path d="M55.5 406L43.5 318L53.5 282L43.5 253L22 231.5L22 204.5L32.5 195" id="Vector-21" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M744.7 877.8L759.7 870.3L759.7 885.3L744.7 877.8Z" id="Triangle-7" fill="#48B33A" fill-rule="evenodd" stroke="none" />
+    <path d="M169 545L177 624L177 691L206 762L227 844L234 910" id="Vector-23" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M16 510.5C16 511.329 15.3285 512 14.5 512L14.5 512C13.6715 512 13 511.329 13 510.5L13 473.5C13 472.671 13.6715 472 14.5 472L14.5 472C15.3285 472 16 472.671 16 473.5L16 510.5Z" id="Rectangle-67" fill="#48B33A" stroke="none" />
+    <path d="M383 557L321 529L281 510L234 517L190 529L164 548L102 533L90 502L72 457L55 404" id="Vector-20" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M1 422L66 433" id="Vector-22" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M438 779L452.464 843.967L465 910" id="Vector-26" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M236 897C236.002 897 268 889 268 889L286.5 872.5L320.5 849.5" id="Vector-27" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M820 81.9998L971.027 47.1324L983.625 101.697L832.597 136.565L820 81.9998Z" id="Rectangle-75" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M870.721 105.352L929.183 91.855L935.932 121.086L877.47 134.583L870.721 105.352Z" id="Rectangle-82" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M943 22.9999L994.096 52.4999L979.096 78.4806L928 48.9806L943 22.9999Z" id="Rectangle-76" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M928.53 91.8659L975.295 118.866L960.795 143.981L914.03 116.981L928.53 91.8659Z" id="Rectangle-77" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M969 67.6436L993.249 81.6436L970.249 121.481L946 107.481L969 67.6436Z" id="Rectangle-81" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M870.5 105.268L890.419 116.768L874.419 144.481L854.5 132.981L870.5 105.268Z" id="Rectangle-78" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M827 62.2679L848.651 74.7679L823.151 118.935L801.5 106.435L827 62.2679Z" id="Rectangle-79" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M828.9 109L867.005 131L853.505 154.383L815.4 132.383L828.9 109Z" id="Rectangle-80" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M991.5 147L984.703 83L979.362 60L958 0" id="Vector-29" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M449 384L463 384L463 398L449 398L449 384Z" id="Rectangle-60" fill="#48B33A" fill-rule="evenodd" stroke="none" />
+    <path d="M462 417L476 417L476 431L462 431L462 417Z" id="Rectangle-61" fill="#48B33A" fill-rule="evenodd" stroke="none" />
+    <path d="M1014 527C1014 524.239 1016.24 522 1019 522C1021.76 522 1024 524.239 1024 527C1024 529.761 1021.76 532 1019 532C1016.24 532 1014 529.761 1014 527Z" id="Oval-4" fill="#48B33A" fill-rule="evenodd" stroke="none" />
+    <path d="M323 529L362 463L385 420L419 376L468 334L587 300L758 265L826 245L882 191L917 154.5L991.5 145.5L1002 245L1017.5 376L1017.5 412" id="Vector-28" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M757.913 475.103L762.413 469.74L764.021 471.09L759.522 476.452L757.913 475.103Z" id="Rectangle-73" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M676.747 107.196L554 133" id="Vector-31" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M885 186L843.583 156L812.521 141.5L768.146 138L721.306 147L696.16 147L680.382 123L672 109" id="Vector-30" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M602 910L610.98 885.435L629.5 867.257L657 853.5" id="Vector-32" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M470 332L457 302L441.5 273L423 235L412 198" id="Vector-33" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M326 609C326 606.239 328.239 604 331 604C333.761 604 336 606.239 336 609C336 611.762 333.761 614 331 614C328.239 614 326 611.762 326 609Z" id="Oval-2" fill="#48B33A" fill-rule="evenodd" stroke="none" />
+    <path d="M53 366.1C53.004 366.097 235 185.1 235 185.1L246 162.1L269 132.1L332 93.6" id="Vector-34" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M587 299L563 265L558 245L574 230L566.231 237.283L554 180L529 176L505 133L480.5 133L441 140L350.5 140L281 210L258 221L177 311L61.5 420" id="Vector-35" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M551.3 -35L573.927 -12.3726L482.711 78.8442L460.083 56.2168L551.3 -35Z" id="Rectangle-47" fill="#CBEA9D" fill-rule="evenodd" stroke="none" />
+    <path d="M506 133L522 120L522 94L634 54L697 21L736 31.5" id="Vector-36" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M610 0L619 21L640 49" id="Vector-37" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M181 534L168 521" id="Vector-38" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M216 521L210 484" id="Vector-39" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M346 592C346 589.239 348.239 587 351 587C353.761 587 356 589.239 356 592C356 594.761 353.761 597 351 597C348.239 597 346 594.761 346 592Z" id="Oval" fill="#48B33A" fill-rule="evenodd" stroke="none" />
+    <path d="M164.081 170.918C164.667 170.333 165.617 170.333 166.203 170.918L166.203 170.918C166.789 171.504 166.789 172.454 166.203 173.04L154.182 185.061C153.596 185.646 152.647 185.646 152.061 185.061L152.061 185.061C151.475 184.475 151.475 183.525 152.061 182.939L164.081 170.918Z" id="Rectangle-39" fill="#48B33A" stroke="none" />
+    <path d="M166.203 182.939C166.789 183.525 166.789 184.475 166.203 185.061L166.203 185.061C165.617 185.647 164.667 185.647 164.081 185.061L152.061 173.04C151.475 172.454 151.475 171.504 152.061 170.919L152.061 170.919C152.647 170.333 153.596 170.333 154.182 170.919L166.203 182.939Z" id="Rectangle-40" fill="#48B33A" stroke="none" />
+    <path d="M164.081 198.919C164.667 198.333 165.617 198.333 166.203 198.919L166.203 198.919C166.789 199.504 166.789 200.454 166.203 201.04L154.182 213.061C153.596 213.647 152.647 213.647 152.061 213.061L152.061 213.061C151.475 212.475 151.475 211.525 152.061 210.939L164.081 198.919Z" id="Rectangle-41" fill="#48B33A" stroke="none" />
+    <path d="M166.203 210.939C166.789 211.525 166.789 212.475 166.203 213.061L166.203 213.061C165.617 213.647 164.667 213.647 164.081 213.061L152.061 201.04C151.475 200.454 151.475 199.504 152.061 198.919L152.061 198.919C152.647 198.333 153.596 198.333 154.182 198.919L166.203 210.939Z" id="Rectangle-42" fill="#48B33A" stroke="none" />
+    <path d="M1014 500C1014 497.239 1016.24 495 1019 495C1021.76 495 1024 497.239 1024 500C1024 502.761 1021.76 505 1019 505C1016.24 505 1014 502.761 1014 500Z" id="Oval-3" fill="#48B33A" fill-rule="evenodd" stroke="none" />
+    <path d="M371.7 -35L394.327 -12.3726L303.111 78.8442L280.483 56.2168L371.7 -35Z" id="Rectangle-43" fill="#CBEA9D" fill-rule="evenodd" stroke="none" />
+    <path d="M275 -30L297.627 -7.37258L206.411 83.8442L183.783 61.2168L275 -30Z" id="Rectangle-50" fill="#CBEA9D" fill-rule="evenodd" stroke="none" />
+    <path d="M460.7 -35L483.327 -12.3726L392.111 78.8442L369.483 56.2168L460.7 -35Z" id="Rectangle-45" fill="#CBEA9D" fill-rule="evenodd" stroke="none" />
+    <path d="M159 53L522 53L522 84L159 84L159 53Z" id="Rectangle-48" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M335.5 53C336.329 53 337 53.6715 337 54.5L337 54.5C337 55.3285 336.329 56 335.5 56L318.5 56C317.671 56 317 55.3285 317 54.5L317 54.5C317 53.6715 317.671 53 318.5 53L335.5 53Z" id="Rectangle-38" fill="#48B33A" stroke="none" />
+    <path d="M221.5 53C222.329 53 223 53.6715 223 54.5L223 54.5C223 55.3285 222.329 56 221.5 56L174.5 56C173.671 56 173 55.3285 173 54.5L173 54.5C173 53.6715 173.671 53 174.5 53L221.5 53Z" id="Rectangle-51" fill="#48B33A" stroke="none" />
+    <path d="M540.5 53C541.329 53 542 53.6715 542 54.5L542 54.5C542 55.3285 541.329 56 540.5 56L433.5 56C432.671 56 432 55.3285 432 54.5L432 54.5C432 53.6715 432.671 53 433.5 53L540.5 53Z" id="Rectangle-37" fill="#48B33A" stroke="none" />
+    <path d="M64 654L144 654L144 893L64 893L64 654Z" id="Rectangle-57" fill="#B2E46A" fill-rule="evenodd" stroke="none" />
+    <path d="M67.5 807.5C67.5 808.329 66.8285 809 66 809L66 809C65.1715 809 64.5 808.329 64.5 807.5L64.5 730.5C64.5 729.671 65.1715 729 66 729L66 729C66.8285 729 67.5 729.671 67.5 730.5L67.5 807.5Z" id="Rectangle-58" fill="#48B33A" stroke="none" />
+    <path d="M67 671.5C67 672.329 66.3285 673 65.5 673L65.5 673C64.6715 673 64 672.329 64 671.5L64 648.5C64 647.671 64.6715 647 65.5 647L65.5 647C66.3285 647 67 647.671 67 648.5L67 671.5Z" id="Rectangle-59" fill="#48B33A" stroke="none" />
+    <path d="M1.14532 422.073L-13 419" id="Vector-41" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M569 234L575 228" id="Vector-42" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M572.127 225L577.973 223.65L579.998 232.42L574.152 233.769L572.127 225Z" id="Rectangle-70" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M416 534L436 539" id="Vector-43" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="10" />
+    <path d="M430.4 530.471L446.162 536.839L439.793 552.602L424.031 546.233L430.4 530.471Z" id="Rectangle-71" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M170 523L164 517" id="Vector-44" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M159.148 516.712L170.833 511.014L173.901 517.305L162.217 523.004L159.148 516.712Z" id="Rectangle-72" fill="#32682B" fill-rule="evenodd" stroke="none" />
+    <path d="M442 578L439.743 629.398" id="Vector-47" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+    <path d="M693.044 494.254L691.811 489.264" id="Vector-48" fill="none" fill-rule="evenodd" stroke="#808080" stroke-width="5" />
+  </g>
+</svg>

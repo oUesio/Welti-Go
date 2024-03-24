@@ -1,0 +1,62 @@
+#gk-login {
+  height: 100vh;
+  padding: 20px;
+  background-color: #59ADFF;
+}
+
+#gk-page {
+  height: 100vh;
+  background-color: #59ADFF;
+}
+
+#gk-logout {
+  width: 80px;
+  height: 50px;
+  padding: 0px;
+  background-color: #C7343B;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 20px;
+}
+
+#verify-list {
+  overflow: auto;
+}
+
+.verify-task {
+  position: relative;
+  margin: 40px;
+  padding: 10px;
+  background-color: #F8DBAC;
+  width: 60%;
+  height: 180px;
+  border-radius: 20px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  margin-left: 20px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  overflow: auto;
+}
+
+.desc {
+  font-size: 18px;
+  width: 60%;
+  margin: 0;
+}
+
+.verify-image {
+  width: 160px;
+  height: 160px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #543A2B;
+  margin-right: 10px;
+}
+
+.date {
+  width: 10%;
+}
